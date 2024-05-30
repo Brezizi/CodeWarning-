@@ -1,0 +1,870 @@
+1/29/2024 | Alpha 8.5.3 | Bug Fixing Patch
+- Partner Eevee and Partner Pikachu have their own custom Z-Moves for balance purposes. Veevee Volley and Pika Papow are the trigger moves for Eevium Z and Pikanium Z respectively.
+- Aran now has a fully working character and partner system. She is officially done.
+- Eros's battles now scale in quality. He is still one of the five unfinished characters, however.
+- The font size of Pokémon names in battle was reduced for longer names to fit in the interface.
+- The Call option in battle was replaced with Check, which is essentially a shortcut to the old
+interface you could access by pressing Z/Shift in the battle menu.
+- The menu, the Pokémon selection and the Check interface were rehauled to be more aesthetically pleasing.
+- Grammar oversights were corrected as usual.
+- Fixed the brown rock crash of Fight Cave.
+- Fixed Lygn clones on Campus.
+- Fixed a number of moves' having wrong amounts of Power Points.
+- Fixed bugs pertaining to Partner Eevee.
+- Fixed a number of custom moves' not having a Z-Move effect.
+- Fixed a few issues pertaining to Pokémon graphics.
+----------------------------------------------
+
+1/24/2024 | Alpha 8.5.2 | System Polish Update
+- A variety of bugs were fixed, including:
+   - Fixed Frostbody crashing the game.
+   - Fixed snow causing the enemies to skip their turn.
+   - Fixed an issue with Petrel clones.
+   - Fixed an issue with looping D-rank class on Day 4.
+   - Fixed an issue with Eiscue being invincible under snow.
+- Every affinity character has a working phone now. Six characters are still prototypes, however.
+- Cassandra and Hyun are fully working now.
+- All affinity characters now have a room. Missed phone numbers, can be gotten there. To enter, 25 affinity is required.
+- For those of you with old saves from 7.3 and earlier, you are no longer stuck with buggy phone numbers. They will be purged once you talk to the Reverse Candy seller.
+- Affinity character move tutoring was revamped.
+- TM06, HM06, TR04 and TR16 were changed to avoid redundancy.
+- Level caps were implemented to the game. They correspond to the level of the strongest trainer you have to face in that section of the game.
+- Miss Aye now forbids the use of healing items for A-rank graduation.
+- Some affinity characters had changes to their 1v1 and 3v3 battles. Mainly Aran and Cassandra.
+- Hospitality was ~~coded~~ fixed.
+- Nature Mints work even if your Pokémon has the nature of the Mint.
+- The encounters on Boulder Province, Rain Forest and Iron Grove were slightly adjusted.
+- Roles were rebalanced, mostly Gambler. The Role Boost was made to affect Pokémon of that type instead of moves.
+- Mega-Abomasnow has a new ability: Frozen Tundra. See specifics in Game Changes.
+- Mega-Aggron's ability was reverted to Filter.
+- Wailord's stat buff was toned down.
+- Pyroar has a new hidden ability Noble Hunt. Game changes too.
+- The Gen 9 nerf on Protean was applied.
+- The Gen 9 PP nerf on healing moves like Recover was applied.
+- You can now press Ctrl + Z/Shift while in your bag to sort the items alphabetically.
+----------------------------------------------
+
+1/6/2024 | Alpha 8.5.1 | Hotfix Update
+- Mortis the Vice Principal has been introduced and now has his own office!
+- New Role has been added! Entering the Gambler! Instructor is located in the New Dawn Bar! Ready to win big!?
+- Slight Improvements to overall Dynamax related sprites.
+- In Battle, the UI when pressing Shift has been updated.
+- Bugs were fixed including the following game-breaking ones: kicking move crash, DA/Black Market crash, Dragon Darts crash when it finds no target, and Magic Bounce shenanigans. Certain moves such as Muddy Water and Leaf Tornado will no longer crit all the time.
+- Gambler and Dark Knight's text have been slightly updated.
+- Some things were rebalanced, including Pokémon and some Role Instructors.
+- A Wishing Piece exchange system was added for unlucky people who only need one Mega Stone from Dynamax Adventure.
+- Players will now gain Dark Aura in the Black Market.
+- Some item/move descriptions were made more accurate too.
+- Grammar. Again.
+----------------------------------------------
+
+1/1/2024 | Alpha 8.5 | Anniversary Update
+- Hail has been converted to its Gen 9 counterpart: Snow.
+- Three professional move tutors (one of which can be found at the Battle Club) have been added to the game and some miscellaneous one.
+- Several Pokémon have been rebalanced, which includes many buffs and a few nerfs.
+- Many brand new moves and abilities were created for the above reason.
+- Partner Pikachu and Partner Eevee have been reworked entirely.
+- Combee, Salandit and Lechonk now have species specific items (similar to Light Ball.) They are rarely held by wild individuals; so, you can get them by using Thief or Covet. Note: that Lechonk is currently unavailable.
+- Paradox pokemons now have their respective Paradox Abilities (Protosynthesis and Quark Drive), players who have obtained Paradox Pokemons in previous updates may use an ability patch to change to these abilities for their Paradox Pokemon.
+- Ruination Pokemon have also received their respective Ruination Abilities (Beads of Ruin, Sword of Ruin, Tablets of Ruin, Vessel of Ruin).
+- Ability Patch can now revert Hidden Abilities and Instructor taught Abilities to the primary ability of a Pokemon.
+- Maxwell's Neferpitou regains its cape at the end of battle, for previous contest winners.
+- Role Abilities are kept at the end of Mega-Evolution (the Pokémon will revert to the specific ability instead of defaulting to its natural one.) Roles were rebalanced to reflect that change.
+- Several bugs were fixed, including Bank interest issues.
+- The Insanity Room was moved to Mind Asylum after a revamp of the New Dawn.
+- Pokemon Storage space was extended by ten boxes.
+___________________
+Detailed Information for 8.5:
+
+[Usable by Players]
+- Hail has been transformed to the weather Snow. A weather condition that does not deal end of turn damage, however, it increases the defense of ice types by 50% and triggers hail-related abilities and moves.
+- Paradox pokemons now have their respective Paradox Abilities (Protosynthesis and Quark Drive), players who have obtained Paradox Pokemons in previous updates may use an ability patch to change to these abilities for their Paradox Pokemon.
+- Ruination pokemons similar to Paradox pokemons have also received their respective Ruination Abilities (Beads of Ruin, Sword of Ruin, Tablets of Ruin, Vessel of Ruin).
+- Ability Patch can now revert Hidden Abilities and Instructor taught Abilities to Ability 0 of a Pokemon.
+- Venture Bond, Honor Bond, and Trouble Bond have been nerfed and no longer give a double 50% boost for STAB moves. (They still receive the regular STAB bonus, but not an additional Adaptability 50%.)
+- Partner Pikachu and Partner Eevee have received new hidden abilities, Light Born and Evoboost.
+- Lokix has received a new form transforming ability, Showdown Mode.
+- Unovian Darmanitan now changes form into Zen Mode upon entering the battle with the ability Zen Mode, however Galarian Darmanitan remains the same as before.
+- Schooling and Showdown Mode reverts the Pokemons to their Original Form at 10% HP, previously 25% HP for Schooling.
+- Shinu/Maxwell's Neferpitou does not lose its cape anymore after battle, for previous contest winners. (This update should theoretically allow players that have already lost Neferpitou's cape to bring it back after ending any single Battle.)
+- Dig has been disabled in the Overworld and can no longer be used outside of Battle.
+- Teleport has been fixed and can now be used during Trainer battles.
+- The moves Syrup Bomb, Gigaton Hammer, and Blood Moon now work as intended in the Main Line Pokemon Games.
+- The amount healed by healing items have been fixed.
+- Flower Trick's Accuracy has been updated to truly never miss.
+- Octazooka has been updated to 100% accuracy and will now always crit.
+- Pokemons that Mega Evolve will now retain their pre-mega evolution abilities.
+- Starf Berry is now usable.
+- Lunar Blessing now heals the user by 30% of its total HP and cures status condition.
+- Unown has received a new form transforming ability, Swarming. It is similar to Schooling and Showdown Mode that transforms Unown upon entering the battle but reverts when Unown is left with 10% HP and Levitate.
+- Hisuian Samurott can now Mega Evolve while holding a Samurottite Mega Stone.
+
+[Not Usable by Players currently]
+- Rayquaza can now Mega Evolve while having the move Dragon's Ascent.
+- Partner Move Functionalities have been implemented for their signature 'Return' moves.
+
+- New Weather
+-- Raging Sandstorm (Primordial Sandstorm that has the same effects as a regular sandstorm but also nullifies Grass-Type Moves.)
+
+- New abilities have been added:
+-- Dragon Fear (Only works as intended in Single Battles currently)
+-- Barren Desert (Brings forth the Raging Sandstorm Weather)
+-- Bee Ware (Bug-type Gale Wings)
+-- Extra Cortex (Psychic-type Gale Wings)
+-- Tellurize (Ground-type Aerilate)
+-- Fly Trap (Absorbs incoming Bug-type damage and makes the Pokemon immune to Poison)
+-- Swiper (Doubles damage if the user is itemless, but steals its enemy's item upon being hit.)
+-- Screamer (The Pokemon is immune to Sound-based moves and boosts the damage of its own Sound-based moves by 50%.)
+-- Silk Mail (Increased both defenses by 50%, however adds a weakness to incoming Fire-type moves.)
+-- Airborne (Special Attack version of Wind Rider. PokÃ©mon with Wind Rider are immune to damage from wind moves and its Attack is increased by one stage when hit by one.)
+-- Fusion Core (Water immunity, +50% SpA, and increased evasion under Rain.)
+-- Iron Heel (Raises the damage of kicking moves.)
+-- Soul Ablaze (Signature ability of Partner Riolu, raises the Pokemon's damage proportional to its %HP lost up to 99% at 1 HP, while if the user also holds a Cobalt Gem, it also raises both defenses similar to the increase in damage, while if it receives a killing blow from full HP, then it will survive with 1 HP however it will no longer benefit from defense increases and Cobalt Gem will be disabled for the rest of the battle.)
+-- Sweet Heart (Doubles the power of Fairy-type moves.)
+-- Gallant (May cause infatuation to Pokemons that inflict contact-based damage to the Ability-bearer regardless of their Gender, except Gender Undefined Pokemon)
+-- Marksman (Boosts the power of Marksman-based moves.)
+-- Ranger's Remedy (May cure the Ability-bearer's status condition on a 25% chance at the end of a turn.)
+-- Vicious Edge (When the user attacks with a contact move, this ability makes the enemy lose 1/8th of its HP after damage calculation when the move hits.)
+-- Frost Body (Contact on the Ability-Bearer may cause Frostbite)
+-- Spirit Drain (Draws in incoming Ghost-type moves and then increases Sp. Def)
+-- Embody Aspect for Ogerpon.
+
+- New moves have been added:
+-- Combustion
+-- Break Dance
+-- Wonder Shield
+-- Kelp Wreck
+-- Freaky Buzz
+-- Funnest Funnel
+
+- New items have been added:
+-- Cobalt Gem
+-- Malice Gem
+-- Curious Bat
+-- Booster Energy
+-- Eggnog
+-- Royal Jelly
+-- Nuptial Veil
+-- Golden Truffle
+
+- New mechanics:
+-- Bank interest
+
+----------------------------------------------
+
+
+11/2/2023 | Alpha 8.1 | Patch Update
+- Adjusted Max Overworld Spawns from 10 to 15
+- Made random encounters a 5% chance instead of 0%
+- Players who have defeated born and didnt get the academy monarch outfit may now obtain it through him
+- Adjusted Suza sprite
+- Removed Ruination Pokemon from Dynamax Adventures
+- Fixed all Softlocking events (Akiza and Esrever in dorms)
+- Fixed Halloween Center and Elisia battle club Loops
+- Fixed Intelligence stat not displaying properly in pause menu
+- Fixed Mage outfit sprite being off in battles
+- Fixed Partners staying with you after D-Rank quest part 2
+- Fixed Dynamax Pokemon with items Crash
+- Minor bug fixes
+----------------------------------------------
+
+10/31/2023 | Alpha 8.0 | Game Update
+- New Event In the Pokecenter: Halloween!
+- New Outfits for Player - Mage Outfit and Academy Monarch
+- Brand new Pokemon - Spectreon (use Dusk stone on Eevee and Drakeon (use Dawn stone on Eevee)
+- A number of new Pokemon from Paldea have been added. (everything up to the most recent DLC)
+- A number of moves from Scarlet and Violet have been added to the game.
+- Elisia story quest 'Fall of the First seat' can be started.
+- The D class story quest part 2 has been completed.
+- A new cooking system has been implemented - only 5 recipes so far, but more to come!
+- A number of trainers have been added to the D, C and B floor fields.
+- The new role of Dark Knight has been added.
+- Knight and Necromancer roles has been rebalanced.
+- Affinity characters Suza and Leila have been added.
+- Some sprites have been updated.
+- Frostbite will replace the Frozen status condition. Frostbite cripples special attack similar to burn on physical.
+- Added stat display to pause menu.
+- Rampardos can now learn Ram Crash when evolved from Craniados.
+- A number of bug fixes.
+----------------------------------------------
+
+
+10/7/2023 | Alpha 7.5.2 | Optimization Update
+- Max Raid Dens were rebalanced.
+- The lag issue was mostly fixed, hopefully.
+- TEMPORARILY removed Egg Hatcher for optimization. Will come back soon.
+- PP Ups are being sold somewhere now. Good luck finding where.
+- Some items like Leppa Berries had their prices increased for balance purposes.
+- Some obscure bugs were fixed.
+----------------------------------------------
+
+10/3/2023 | Alpha 7.5.1 | Patch Update
+- Added Egg Hatcher item obtained from Mom or academy Pokecenter. You can now hatch up to 6 eggs at a time without
+any of them taking up party slots.
+- Added Academy Monarch Outfit reward for defeating Born in S-Rank
+- Added Kagurabachi Outfit obtainable after crafting Katana
+- Katana has been added as a held item, it increases slashing moves by 20% and 10% chance the wielder goes first
+- Egg hatch animation has been removed, this fixes the egg hatch softlock
+- Minor Bugs fixed.
+----------------------------------------------
+
+10/2/2023 | Alpha 7.5 | Patch Update
+- 5 New Contributors added, located in Library, Artifact Cave, South City District, Department Store Rooftop, and Lava Park
+- Moltres and Articuno have been added because Zapdos seemed lonely.
+- Phone System now tells you unavailable phones aren't available. Only applies to new game and onwards.
+- More grammatical fixes
+- Elisia challenging born loop fixed
+- Minor bugs fixed
+----------------------------------------------
+
+9/25/2023 | Alpha 7.4.9 | Insanity Update
+- Insanity Room Has been Added. This Room is located in the new dawn. Go there to suffer.
+- Added Random Food Items you can obtain during class cafeteria
+- Floor fields revamped
+- Difficulty rebalanced, Made it easier for you weaklings :D ~Fyre
+- Sprite improvements
+- Massive Grammar Update, thanks to community Grammar challenge!
+- Added a few more songs to the songs list
+- Bug fixes
+
+
+8/28/2023 | Alpha 7.4.1 | Patch Update
+
+- Master roles for Knight, Ninja and Beast tamer have been added
+- Megastones for the new Megas have been added 
+( Mightyena, Flygon, Volcarona, Mimikyu, and Dragapult)
+- Fixed issue with all trainer battles having basic abilities
+- Made Money cap 10 Million
+- Completing Homework No longer reduces energy
+- Homework is not properly assigned to D-Class
+- Fixed crash with trainer Wes
+----------------------------------------------
+
+8/27/2023 | Alpha 7.4 | Game Update
+
+- Trainers Blue and Red Battles have been Revamped
+- New Role Ranger has been added to D-Rank Field.
+- All TMs are available.
+- Partner Pikachu and Eevee added to the starter line.
+- Shadow Pokemon can now level up.
+- Tinkaton line added to the game.
+- Lycanrock has been revamped ( Additional typing for each form) (Expanded Movepool) (Changed Some Abilities)
+- D-Rank class quest has been added
+- D-Rank classes now have a chance to take you to cafeteria or battle a classmate after day 3
+- Morning and Night have different color shading, making them easier to see in.
+- the time in Little Maw work like every other place in-game
+- Item finder and hidden items in the fields.
+- Losing to the final match of Battle Week still counts as completing it.
+- New affinity characters to bond with (Caroline, Mandy and Kairo)
+- Yariette and Caroline OW Sprites upgraded
+- Akiza and Mandy have their own battle theme
+- Several megastones were added to the fields.
+- Hyun and Caroline don't fight you twice anymore... In theory.
+- Dreadna has an actual team outside of class.
+- Hitmon line stat buffs.
+- Added a few more things you can do to increase stats in little maw
+- Rocket fanboy in Detention has a mini-quest if you become the boss/disband it.
+- Move tutor for Hidden Power in Mind Asylum.
+- All classmates have dialogue in class.
+- The neutral outfit was modified
+- Grammar fixes.
+- Bug fixes.
+----------------------------------------------
+
+7/15/2023 | Alpha 7.3 | Fixes/Changes
+
+- Added Master Necromancer Role
+- Added Contributer Yukine to Academy Pokecenter 
+- Added Move tutor for Toxic in Toxic Canyon
+- Added Move tutor for Frustration to outh City District
+- Added Move tutor for Return in the New Dawn
+
+- Fixed When you go to sleep and get the cutscene for graduating B-rank, you wake up to the same day with the same amount of interaction but more energy.
+
+ - Fixed Fishious Rend and Bolt Beak lead to error messages and the enemy’s turn being skipped when used by the AI.
+ - Fixed Having a Rowlet as your starter makes your game crash.
+ - Fixed It is impossible to pass the D-class exam because the Pokedex code is incorrect.
+ - Fixed The Student Lounge and Aqua stairs make you stuck in an obstacle upon being taken a second time (you can currently download 7.2.1 or use Fast Travel to escape until the next patch.)
+
+ - Fixed Speaking to the Move Relearner before getting a Pokemon crashes your game.
+ - Fixed Kairo's battles were not updated and are currently harder than they should be. Also, the S-rank battles do not appear nor demand the player to use a specific number of Pokemons for the battle.
+
+ - Fixed Yariette's battle theme does not start when fighting her.
+ - Fixed You can have double battles against Yariette with Yariette herself as your partner.
+ - Fixed The Furret Lass of Lush Forest has a ninja son's dialogue upon being defeated the second time.
+ - Fixed The Ledian Lass of Mt Grassland has the Furret Lass's second battle.
+ - Fixed An officer Jenny sometimes appears on the way to the docks. She cannot be interacted with and can be stepped on.
+
+ - Fixed The stairs to the Student Lounge and one of the Aqua Hideout's stairs will block you forever when taken to go up. You need either Fast Travel or the Backtrack Rope to save you.
+
+----------------------------------------------
+
+7/15/2023 | Alpha 7.2 | Club Update/Fixes
+
+- Most moves now have Battle Animations
+- Added Mimikyu Hoodie Outfit, obtainable from guard in student lounge
+- Battle Club reworked, now contains over 30 battle variants and they are now determined by class rank
+- Battle Server Kairo is now the official Perk distributer for Battle Club Perks
+- Mr.Dee now gives the National dex after graduating D-Rank
+- Foundation for new area in student lounge known as Theater has been set, currently inaccessible until a future patch
+- Player Fist fight health and damage is now determined by player strength, every 20 strength you'll see the increase
+- Replaced Lure balls with Net balls in waterfall passage
+- Blake Cutscene crash has now been fixed
+- Fixed Majority of bugs
+----------------------------------------------
+
+7/2/2023 | Alpha 7.1 | Crash Fix
+
+- Apprentice Necromancer Role has been added
+- Allowed players to change between Light and Dark outfits at their dorm
+
+- Fixed Affinity System Battles Crashing
+- Fixed Aurora, Elisia and Vain’s sprites in the orientation were updated.
+- Fixed Akiza's Pancham becomes a Pangoro in D-class.
+- Fixed People using old saves in D-rank couldnt begin class
+- Fixed The campus sometimes shows as daytime
+- Fixed Vain’s dialogue in Elisia’s cutscene still appears even after he leaves.
+- Fixed Akiza’s portrait in the docks right before orientation misaligned.
+----------------------------------------------
+
+
+7/1/2023 | Alpha 7.0 | Game Update
+
+- The Pokemon Pathways Logo Has been Updated
+- Mentor Battles for ALL S-Rank students after graduating A-Class has been added
+- Mentor Trades have been added
+- Shadowfication and Shinyfication processes have been added
+- Day 1 events for ALL mentors have been added
+- ALL affinity character sprites have been revamped
+- Mentor sprites have been revamped
+- Most trainer Battles have been overhauled to be more difficult
+- Ice Type has been buffed to resist both Electric and Water Types
+- New Pokemon have been Added
+   KINGGAMBIT, WALKINGWAKE, IRONLEAVES, DUDUNSPARCE, FARIGIRAF, ANNIHILAPE, MEOWSCARDA LINE, BAXCALIBER LINE
+- Many Pokemon have been buffed, see 7.0 Changes Document for more details
+- Phone system for AKIZA is working perfectly, this list will be expanded in the future
+- New Game has a new start menu
+
+
+BUG FIXES:
+- Mr. Cee's dialogue is the same as Mr. Dee's in class.
+- Some of the lake water of the campus was replaced with grass tiles.
+- Some old sprites are still used as dialogue portraits.
+- The Knight’s apprentice set of abilities is slightly different from the apprentice set you can access from the expert rank.
+- Items are duplicated once during Battle Week, presumably on the first day.
+- There is a "Now isn't the time to turn back" message that stops you every time you try to go to Team Magma's base. The message appears either after conquering the base on an old save or after wiping in the process of doing so.
+
+- The Biker flag in detention is buggy as the fight can be redone infinitely as long as he does not drop out. 
+- The detention you get for fighting him indoors is given for the same day, meaning the game considers you skipped detention the day after.
+- The Triple Triad in the Student Lounge considers you do not have enough energy to play even when you have the exact cost requirement.
+- Successfully flirting on the Pokegear will only grant you 1 Charm instead of 3.
+- Chloroblast increases stats (?) and fails to cost half of the user's HP upon use.
+- The scientist’s quest in Green Hills gives you 1 Charm instead of 3.
+- The beauty’s quest in Riverside Road gives you Charm instead of taking it away for being rude.
+- The Marowak and Mandibuzz quest says you gain 1 Charm upon successfully defeating one side, but you actually get 5.
+- Any student above D-rank’s phone numbers will give you Akiza or Yariette’s options as the phone system is still incomplete.
+- Cassandra’s phone options can lead to battles. 
+- The Cafeteria event from class sometimes gives double the interaction points.
+- A bug catcher in Lush Forest can be fought infinitely.
+- You can dream a second time at the beginning of the game after checking your computer. It only happens from some angles.
+- Mining in Mt Grassland (and possibly other places) only costs 1 Strength point instead of 2.
+- On the ice field, the peak of the mound where Regice stands has no collision, allowing players to climb the last bit without using the stairs. 
+- TM86 Phantom Force is located in all of Rain Forest, Aqua Cave and Haunted Manor. TM18 Reflect is located in both Rain Forest and Mind Asylum. TM13 Fire Spin is located in both the Game Corner and Magma Hideout.
+
+- There is no Torchic Doll in S-Class dorms.
+- You get stats whenever entering a previous class upon reaching S-rank and you have to go through the artifact cutscene upon leaving if possible.
+- Beedrillite is available in two different locations.
+- The Ice Stone does not evolve Crabrawler.
+- Item requirements for role quests and the last artifact cost one more than intended. Example: 2 Odd Keystones instead of one.
+- Wave Crash’s base power and effect are incorrect.
+- Dig makes your game crash if you use to escape from a floor field while having that Pokemon in front of your party.
+- Losing to Blake during his quest softlocks you as a line of dialogue ("after the unfortunate defeat, you scurry back home") repeats forever.
+- The Torchic doll does not let you separate from partners because a message stating you cannot have Pokemon followers while partnered takes precedence over the separation option.
+- Teaming up with Tony makes the exit of the second floor of the library disappear. This can lead to a softlocke if the player goes there without any Fast Travel use remaining. Separating from Tony anywhere beside the library's second floor enables the exit to work again, but it does not change anything if the separation takes place there.
+
+- Not picking your starter and sitting on your desk leads to a softlocke as you lose the opportunity to pick anything.
+- Teaming up with Hyun crashes your game.
+- The HM shopkeeper in the Student Lounge makes you crash because of HM03 on some days.
+- When picking Lygn as your mentor, upon going out, you can skip the Mandy vs Lygn cutscene by going either left or right since the event tile is directly in front of the exit.
+
+
+----------------------------------------------
+
+
+5/11/2023 | Alpha 6.6.1 | Fixes
+
+- Fixed FireEater's battle crash
+- Fixed Darkinium Z 
+- Fixed BuginiumZ 
+- Fixed Classes proceeding after graduating
+- Fixed Aerodactyl in Dragon's den.
+- Fixed The shopkeepers in the Student Lounge
+- Fixed Perks for student lounge
+- Fixed Hyun battle crashes
+- Fixed Teaming up with Cassandra causing crash
+- Fixed Gyaradosite in Dread Plateau
+- Slightly ajusted battle week entrance
+- Fixed Player Running sprites
+- Replaced Question mark overworld pokemon sprites with invisible ones
+- Adjusted some floor field encounters
+----------------------------------------------
+5/6/2023 | Alpha 6.6 | Updates & Fixes
+- Player and Mentor Sprites have been Overhauled to look better
+- Akiza's Sprites have been overhauled
+- Items and Special Encounter Pokemon have been added to most Floor Fields
+- Added Mine Rocks in a few floor fields
+- Student Lounge Chef Now provides terrain seeds on Friday
+- Student Lounge shop item expansion, more appear with every class ascent
+- New Outfits Added! Rocket Grunt, Magma Boss and Next Generation Outfit are now obtainable!
+- Multiple Backups are no longer created after closing/starting game
+- All Contributors Now Provide a Megastone after defeating them for the first time!
+- Contributor Fyre Has Been Added! Battle him at Pixie Island once S-Rank!
+- Contributors Arc, Shinu and Barret now have after battle week battles!
+- Added Expert Roles For KNIGHT, NINJA and BEAST TAMER
+   - Ball Fetch on beast tamer has been replaced with Synchronize
+- Pheromosa’s base stats are corrected
+- Mr Bee’s Team has been fixed
+- Mr Cee’s Team has been fixed
+- Calling Mentor on Pokegear properly gives stats
+- You can no longer get fossil Pokemon before starter
+- You can now bring back a Rampardos to the Marowaks in Riverside Road 
+- You can now bring back an Aerodactyl to the Vullaby in Riverside Road 
+- All Pokemon in Max Raid Dens have Hisuian form.
+- Replaced Dynamax Adventure Mixed Adventure with Random Adventure
+- Fixed Lower Classes being locked even after reaching S-Rank
+- Fixed Cassandra and Yariette being in 2 places at noon
+- Fixed Players skipping starting nightmare 
+- Fixed Overworld Spawns In Dragon's Den
+- Fixed Overworld Spawns In Aqua Grotto's Den
+- Fixed Effortless Perk Crash
+- Fixed Akiza appearing when talking to Petrel
+- Fixed Repeated Sleeping in Player home
+- Fixed All Outfit Running Animations
+- Fixed Partners Not Seperating Through Dorm Torchic Plush
+- Fixed Mining an Armor Fossil giving metal coat
+- Updated Pokemon Encounters
+----------------------------------------------
+
+
+4/16/2023 | Alpha 6.5.1 | Fixes
+
+- Fixed some incorrect EV Spreads for some trainers
+- Fixed Contributor Barret Crash
+- Updated Pokemon Encounters
+----------------------------------------------
+
+
+4/16/2023 | Alpha 6.5 | Updates & Fixes
+
+- Dynamax Adventures Added. Accessible on campus after reaching A-Rank
+- Max Raid Dens on every Floor Field, 1 of 3 Regional Variant Pokemon can be found
+- Added Team Magma and Aqua Grunt Outfit, Once unlocked, change into them at your Dorm Room Dresser
+- Added Contributor Shinu to Waterfall Passage, Graduate A-Rank to Battle!
+- Calling mentors can increase 1 unique stat (Phone system as a whole is still bugged, will be worked on soon)
+- Changed Multiple Savefile script, limited saves to 8
+- Changed some encounters for a few floor fields, see guide for detailed info!
+- Partners being in constant battles with can now be removed by speaking with the torchic plush in your dorm.
+- Fixed Choosing a mentor softlock. You cannot escape the mentor select menu
+- Fixed The option "walk away" after beating Giovanni, which would lead to a softlock
+- Fixed The guard to the South District softlocking you if you refuse to pay him 
+- Fixed Ice Fang, Fire Fang and Thunder Fang's secondary effects have a 100% chance of activating instead of 10%.
+- Fixed When graduating from B class, the cutscene allows two Fridays in a row.
+- Fixed Mining not costing energy.
+- Fixed infinite Bottle Caps from the Training Den's trash can.
+- Fixed Fast Travel not working after Battle Week.
+- Fixed Infinite Boiled Slowpoke Tail special in Classroom Cafeteria
+- Fixed S-Rank Manor map tile that leads to outside the manor
+
+----------------------------------------------
+
+4/2/2023 | Alpha 6.1.2 | Fixes & Changes
+
+- Added different berries appearing for every day of the week
+- fixed IV medicine not giving proper stats
+- fixed fist fight with esrever looping
+- rowlet crash fixed
+- fixed crash from Training den Instructor
+
+----------------------------------------------
+
+4/1/2023 | Alpha 6.1| Fixes & Changes
+
+- Added 20% Chance for instant encounters encase overworld pokemon do not spawn.
+- Energy is no longer consumed when all floor fields are unlocked
+- Changed the ways IC's are distibuted. They are now given along with EV's.
+- Fixed Rocket members giving away Mega/Legendary Pokemon
+- Fixed Duplicating Items in Battle Week
+- Fixed Crashing Virizion
+- Fixed Fast travel being connected to Cassandra's Phone
+- Fixed nature Sassy mint
+- Fixed Gallade Appearance in A-Rank
+- Fixed infinite potions glitch from LYGN in Library
+- Fixed Alignment distribution in Haunted Manor
+
+----------------------------------------------
+
+3/23/2023 | Alpha 6.0| Major Content Update
+
+- Added Second Chance to challenge evil team if defeated. Will cost different stats depending on evil team.
+- Added Fast Travel Item to use around the Academy. It is limited to 5 uses a day and is gifted from your respective mentor after graduating D-Rank. 
+- Replaced Instant Pokemon Encounters with Overworld Pokemon Encounters. Movement in a floor field spawns them.
+- Added 12 New Starters given based off Alignment and Stats.
+- Added some familiar faces that will appear in the floor fields after graduating A-Rank. Good 
+- Replaced Mart and Department store music.
+- Replaced How training den gives EV’s and IV’s. Vitamin’s for EV’s, Bottle Caps for IV’s. This change also applies to the following Perks:
+        EFFORTLESS
+        HYPER INHERITANCE
+
+    - Added New Perk!
+        MANIPULATOR: Reduce the cost of all Charm actions by half.
+
+- Populated Floor Fields:
+        Haunted Manor
+        Mind Asylum
+        Lava Park
+        Icy Glaciers
+        Pixie Island
+
+- Added Z-Ring and Mega Ring. Both obtainable from B-Rank Teacher.
+- Added more story cutscenes/plotlines starting after B-Rank.
+- Introduced new Battle Week System for Starting S-Rank Trainers. Start the Challenge in the battle club. Good Luck, you’ll need it
+- Added New Apprentice Roles:
+        Knight(Updated)
+        Ninja
+        Beast Tamer
+
+- Nature Mints can now be purchased from the dorm cafeteria. Different mints for each day of the week!
+- Added Move Tutor, Move Deleter and Name Rater to library. Cost intelligence to use.
+- Added online shop with exclusive items accessible from dorm computer. Upgrades with each class rank ascended.
+- Implemented Transfer of Party Pokemon from one save file to another. This is only accessible from dorm computer after graduating A-Rank. This can be done by selecting Export Team, giving said team a name. Go to another save file that is A-Rank or higher. Go to dorm computer, select Import Team, Type in the team name you entered when exporting.
+
+- Bug Fixes
+----------------------------------------------
+
+2/19/2023 | Alpha 5.4| Bug Fixes
+
+- Lygn sometimes invisible when selecting mentor fixed
+- Fixed Double Team by canging swellow to noctowl.
+- The last of the 10,true, true fixed
+- last Cassandra event that crashes when given her phone number fixed
+- Softlocking text after leaving team magma/aqua base fixed
+- Cafeteria sundae and text fixed
+- Hyun pronouns in class cafeteria corrected
+- treecko crash fixed
+- some Invisible npc in floor fields fixed
+- Police sign on arcade changed.
+- Rquirements to become a Knight has been corrected
+----------------------------------------------
+
+2/18/2023 | Alpha 5.3| Update
+
+- Added Back-Track Rope to allow escape from floor field. Given on 1st day by Mr.Dee
+- More bug fixes
+----------------------------------------------
+
+2/16/2023 | Alpha 5.2| Update
+
+- Allowed Sleeping at night regardless of energy
+- Poke pasta limited to 2 uses a day, using more will waste it
+- More bug fixes
+----------------------------------------------
+2/14/2023 | Alpha 5.1| Valentines Update
+
+- Affinity System for Most classmates added, as well as overall improvements to it such as charm earned from advancing in friendship rank. 
+- New City District with many new buildings and things to discover added. New City District Access becomes available after graduating D-Rank.
+- Team Magma, Rocket and Aqua bases implemented. Added options to Defeat or take over the evil teams! (Still being developed.)
+- Experimental Class system (Only Knight available)
+- Revamped Pause Menu to show party status.
+- More Quests, Trainers and Items to find in C rank floor fields. 
+- Added Speed Up button. Active by pressing F7.
+- Availability to enter floor fields at night.
+- Revamp to most Academy campus building exteriors.
+- Improved Floor field Enter and Exit transitions.
+- Increased prices of EXP Candy.
+- Allowed Saving everywhere temporarily.
+- Removed work system as it was bugged 
+- Major game breaking Bug fixes
+- Strength Fixes
+----------------------------------------------
+
+4/16/2022 | Alpha 4.5.3| Bug fixes
+-  Updated more classmate move routes for class 1v1
+- Fixed A Rank Teacher unable to graduate student
+- Fixed some Cafeteria Bugs that wouldnt allow player to leave
+- Fixed Chair glitch in orientation
+- Fixed mystery gift glitch in mart
+- Fixed Quest menu not appearing
+- Fixed sign not showing text
+- Fixed quest log not appearing in menu
+- Fixed 101 Key glitch
+- Fixed text glitch orientation lady
+- Removed save options in academy
+- Fixed text to use
+- Fixed Green Hills tree tiles
+- Fixed S class students in library saying nothing on wednesday
+- Fix pokecenter npc text
+- Maybe fixed being able to save at the academy(?)
+
+----------------------------------------------
+
+4/13/2022 | Alpha 4.5.2| Bug fixes
+- Added Check Stats In battle Script, use by pressing shift or Z during any battle
+- Fixed born picking up with yariettes number
+- Fixed Sundae special in the cafeteria not working
+- Some more minor fixes
+----------------------------------------------
+
+4/5/2022 | Alpha 4.5.1| Bug fixes
+- Floor fields B and A entrance and exit not working
+- Cassandra getting stuck when batling in C-Class
+- Fixed being trapped in Aqua Grotto
+----------------------------------------------
+
+
+4/4/2022 | Alpha 4.5| Perks Update
+- Added Perks that can be earned by completing club activities. There are 13 in total, but you can only have two and you cant remove them so choose wisely!
+- Added Yariette and Hyun to the academy cafeteria
+- Fixed Pokemon not being restored after class battles
+- Fixed Esrever getting stuck
+- Re-added badges to fix HM usage.
+- Fixed Old hyun affinity system in battle club
+-----------------------------------------------
+
+
+4/2/2022 | Alpha 4.2| Class Ascension Update
+- Added Berry Farm in Dorm Cafeteria Outback
+- Fixed Class battles not starting
+- Fixed Lighting error after Blake beef cutscene
+- Fixed Guy blocking way in a C-Rank Floor Electric floor field.
+- Fixed Electric Floor fields not connecting
+- Fixed Biker bug in detention when choosing to fight in fight cave
+-----------------------------------------------
+
+
+4/2/2022 | Alpha 4.1| Class Ascension Update
+- Fixed Disobedient Pokemon
+- Fixed Box guy at Little Maw
+
+-----------------------------------------------
+
+4/1/2022 | Alpha 4.0| Class Ascension Update
+- All class ranks are now able to be passed!
+- Combined & Revamped Classroom and Academy interior. They are now one
+- New class system, featuring in class battles
+- More things to do at the intro town Little Maw
+- New Cafeteria System that will be improved upon
+- More classmates to build affinity with, this will be improved upon
+- Better Starter Pokemon given from Alignment instead of stats
+- More plot cutscenes
+- Non-copyrighted music developed by Lygn!
+- Fixed some tile errors
+------------------------------------------------
+
+8/5/2021 | Alpha 3.2| bug patch
+- Made cafeteria music consistent with outback music
+- Made Strength cost from 5 to 2
+- Slightly revamped Little Maw
+- Fixed not being able to enter Dorm when mentor vain is selected
+- Updated interactable bag script with newer version
+- Fixed Not being able to battle classmates outside of class more than 1 time
+- Minor spelling errors
+- May have fixed false job skipping notice
+
+------------------------------------------------
+
+
+7/31/2021 | Alpha 3.1| bug patch
+- Fixed qest with missing sisters in green hills
+- Slight graphical change to Academy Campus Map
+- Fixed Scientist Quest
+- Removed Keckleon shop in lush forest and replaced it with wild keckleon
+- Fixed error with missing job and notification that comes with it
+
+------------------------------------------------
+
+7/27/2021 | Alpha 3.0| Mini Expansion
+- upgraded from essentials v18 to v19.1
+- changed starters, you are given one based off your personality
+- added part time job system
+- daycare system now in training den
+- lose 1 stat in all stats for every battle lost in floor field. You also lose some energy and time of day. Avoid losing!
+- more cutscenes for hidden/main events
+- Remade affinity system. Light, Dark and Neutral aura effects affinty growth
+- made strength stat more necessary for exploration
+- All 5 S-Rank students can now be selected as a mentor
+- Added working pokegear encounters list
+- Gen 7 to Gen 8
+- Changed how player looks
+- Changed how name screen looks
+- Updated Quest System
+- more than just 3 save files
+- all npcs have shadows
+- description for new items now displayed
+- Fixed classmates not appearing on first day
+- fixed a few minor errors
+
+------------------------------------------------
+
+2/1/2021 | Alpha 2.1| Mini Expansion
+- Added Multiple Save files (A save file can be deleted by pressing Z/run button on the introduction screen)
+- Increased Rival difficulty
+- Increased D-Rank Teacher's Difficulty
+- Detention count gets reset upon entering C-Class
+- Detention can now be entered during weekends
+- Fixed Pokemon appearing as Question marks
+- Fixed some trainers being able to be rebattled
+- Fixed infinite old gateau event
+- Fixed headbutt crash by removing headbutt trees
+- Fixed Old shinobi not giving you egg after party full
+- Fixed Library roof tile error
+- Fixed yanma double team crash
+- Fixed laptop that says -20 energy
+- Fixed Girl's My Dorm computer being unreachable
+- Fixed Hyun's nuzleaf not being with him in Fight Cave
+- Fixed some tile errors
+------------------------------------------------
+------------------------------------------------
+1/24/2021 | Alpha 2.0 | Expansion Update!
+- The Story Continues...
+- D-Classmates affinity System 
+- Added Yariette Affinity System!
+- Added C-Rank Class and C-Rank Floor Fields
+- Quest System and Menu implemented
+- Added charm and rep gain through quest (D-field only, C-field In progress)
+- Added Player Boy and Girl Dorm differences
+- Added Fully funtioning Mega Evolution
+- Added Principle text
+- Added Bully Blake Cutscene's that differ from Born/Lygn
+- Lowered Wild Pokemon Encounter Rates
+- Added option to Save after healing in Pokecenters.
+- Fixed learnable moves not resetting daily
+
+------------------------------------------------
+1/8/21 | Alpha 1.5.1| Bug Fix
+- Fixed Crash that occurs when using battle den without Pokemon
+- Fixed flower tile errors in moms room
+------------------------------------------------
+1/8/21 | Alpha 1.5| Mini Expansion
+- Added New Building On campus! The Training Den! EV's and IV's can be gained there!
+- Added Affinity System for Hyun! He can be found in the new Training Den at night and Battle Club in Evenings!
+- Updated Akiza to being outside the Dojo at noon AFTER class.
+- Fixed Akiza being outside during LYGN TOUR route
+- Fixed Esrevers Pokemon still in D-Class after you graduated. (He is supposed to be gone)
+- Fixed Akiza being in D-Class when she's your Partner.
+- Fixed Battle club guard doubles
+- Fixed Woodland River house door.
+------------------------------------------------
+1/7/21 | Alpha 1.4.2| Bug fix
+- Changed Akiza's location schedule, she can be found outside the fight club at noon and inside the fight club during mornings.
+- Removed Akiza from fight cave
+- Removed able to duel with Akiza until further notice
+- Fixed Impassible tiles in Fight Club
+- Truly fixed Crash when partnering up with Akiza
+- Fixed fisherman that would crash your game.
+------------------------------------------------
+1/7/21 | Alpha 1.4.1| Bug fix
+- Fixed players being forced into detention after graduating
+- Fixed Headbutt Encounters
+- Fixed some Campus Tile Errors
+------------------------------------------------
+1/6/21 | Alpha 1.4| Quality of Life
+- Added Toggle Pokemon Following you by interacting with your dresser in your dorm
+- Made screen scroll back to player when class is over
+- Removed side carpet from Library
+- Replaced a table in Dorm Lobby
+- Fixed crash when selecting Partner Up choice when reaching Max Affinity (Everything After is Unfinished)
+- Fixed Akiza not showing in Fight Club
+- Fixed Clipboard glitch in student lounge
+- Fixed certain impassable tiles being passable
+
+------------------------------------------------
+1/5/21 | Alpha 1.3.6| Bug fixes
+- Added Skill gain and energy drain from card dueling
+- Added New Music to Student Lounge
+- Made akiza be at fight cave on mondays
+- Fixed Animations not showing
+- Fixed encounters AGAIN
+- Fixed crash that happens when battling Esrever
+- Fixed Akiza not appearing in fight club after walking in
+- Fixed player not facing guard when trying to enter classroom tower at night
+
+------------------------------------------------
+
+1/5/21 | Alpha 1.3.5| Bug fixes
+- Fixed Some tile errors
+- Semi fixed encounters
+------------------------------------------------
+
+1/4/21 | Alpha 1.3.4| Bug fixes
+- Legendary Pokemon is now available somewhere to catch!
+- Added Bridges to Woodland River
+- Some tile errors
+
+------------------------------------------------
+1/4/21 | Alpha 1.3.3| Bug fixes
+
+- Fixed needing badge for hm moves
+- Fixed some tile errors in D-Rank Floor Field 5
+-------------------------------------------------
+------------------------------
+1/4/21 | Alpha 1.3.2| Bug fixes
+
+- Removed ladder that does not go anywhere in fight cave
+- Fixed tile error by detention room
+- Fixed D-Rank field 5 tile error by fountain
+- Fixed Alolan Ninetails appearing in battle club black space
+- Fixed wild Pokemon encounters
+- Fixed D-Rank floor field 3 house tile error
+
+-------------------------------
+
+1/4/21 | Alpha 1.3.1| Bug fixes
+- Allowed option to save through quitting.
+- Fixed Pokemon Not Appearing
+- Fixed Officer Jenny Crash
+- Fixed box not at start town
+----------------------------
+
+1/4/21 Alpha 1.3
+- Fixed Gaurds Blocking players at night
+- Updated Pokemon Battle Sprites
+- Fixed Crash that happens after losing Battle Club
+- Added Data for Gen 7 which was previously lacking
+- Removed Perspective Mode due to unfixable tile error
+- Fixed Bug where checking certain number of Pokemon fails.
+- Fixed reflection in darkness in dorms
+
+1/3/21 Alpha 1.2.5
+- Removed Ribbon Checker Guy in Battle Club
+- Added some NPC's items throught campus
+- Minor Bug Fixes
+
+1/3/21 Alpha 1.2
+- Changed Map view mode to Perspective
+- Added some NPCs Island Front
+- Added some NPCs Upstairs Main Hall
+- Added some NPCs to Dorms
+- Added some NPCs Outback Cafeteria
+- Added some NPCs in Battle Club
+- Added some NPCs to Class Tower Floor 1
+- More NPCs appear thoughout the week in Fight Cave. Some of which may be of value. 
+- Slightly improved Battle AI
+- NPCs with Blood on their hats?? What could this mean?
+- Added Evolution during battle
+- Updated Pokemon Followers to Pokemon Followers EX
+- Removed Latter in Fight Cave
+- Fixed tile error with Pokecenter roof
+- Fixed Nincada Trainer
+- Fixed Crashing when talking to water
+- Fixed Trainer with sentret repeating battle
+- Fixed Being asked to save when quitting game
+- Included Changelog In Game Archive
+
+1/2/21 Alpha 1.1
+
+- Added option to save after reaching Academy for the first time.
+- Added more NPC's to speak with through out the week on Campus Grounds, some of which may be of value. 
+- Let players know they can only save in the Dorms when first visited.
+- Fixed Crash that happens when speaking to girl swimming by fight club by making her unreachable.
+- Fixed Door next to Player Dorm room teleporting you off campus.
+- Removed Day Care Guy from 2nd Floor Dorms.

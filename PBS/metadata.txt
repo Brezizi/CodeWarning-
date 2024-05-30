@@ -1,8 +1,8 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-Home = 3,7,5,8
-WildBattleBGM = Battle wild.mid
+Home = 90,4,5,8
+WildBattleBGM = Wild Battle.mp3
 TrainerBattleBGM = Battle trainer.mid
 WildVictoryME = Battle victory wild.ogg
 TrainerVictoryME = Battle victory trainer.ogg
@@ -10,14 +10,14 @@ SurfBGM = Surfing.mid
 BicycleBGM = Bicycle.mid
 PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
 PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerC = POKEMONTRAINER_Leaf,trchar197,girl_bike,girl_surf,trchar197,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerD = POKEMONTRAINER_Red,trchar196,boy_bike,boy_surf,trchar196,boy_surf,boy_fish_offset,boy_fish_offset
 #-------------------------------
 [001]
 # Intro
 #-------------------------------
 [002]
-# Lappet Town
-Outdoor = true
-ShowArea = true
+# Little Maw Town
 MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
@@ -210,6 +210,10 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[043]
+# Academy Island Front
+Bicycle = true
+#-------------------------------
 [044]
 # Route 6
 Outdoor = true
@@ -362,7 +366,7 @@ BattleBack = underwater
 Environment = Underwater
 #-------------------------------
 [071]
-# Harbor
+# Harbour
 MapPosition = 0,13,13
 #-------------------------------
 [072]
@@ -390,3 +394,125 @@ MapPosition = 0,12,10
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[082]
+# Academy Campus
+Bicycle = true
+#-------------------------------
+[099]
+# Fight Cave
+Bicycle = true
+#-------------------------------
+[108]
+# Green Hills
+Bicycle = true
+#-------------------------------
+[109]
+# Lush Forest
+Bicycle = true
+#-------------------------------
+[110]
+# Woodland River
+Bicycle = true
+#-------------------------------
+[111]
+# Mt. Grassland
+Bicycle = true
+#-------------------------------
+[112]
+# Rain Forest
+Bicycle = true
+#-------------------------------
+[113]
+# Green Artifact Cave
+Bicycle = true
+#-------------------------------
+[122]
+# Riverside Road
+Bicycle = true
+#-------------------------------
+[123]
+# Thunder Factory Left
+Bicycle = true
+#-------------------------------
+[124]
+# Icy glaciers
+Bicycle = true
+Weather = Snow,100
+#-------------------------------
+[125]
+# Thunder Factory Right
+Bicycle = true
+#-------------------------------
+[128]
+# Iron Grove
+Bicycle = true
+#-------------------------------
+[130]
+# Haunted Manor
+Bicycle = true
+#-------------------------------
+[131]
+# Boulder Province
+Bicycle = true
+Weather = Sandstorm,100
+#-------------------------------
+[132]
+# Waterfall Passage
+Bicycle = true
+#-------------------------------
+[133]
+# Aqua Grotto
+Bicycle = true
+Weather = Rain,50
+#-------------------------------
+[137]
+# Toxic Canyon
+Bicycle = true
+#-------------------------------
+[138]
+# Arena Plaza
+Bicycle = true
+#-------------------------------
+[139]
+# Ancient Ruins
+Bicycle = true
+#-------------------------------
+[140]
+# Lava Park
+Bicycle = true
+Weather = Sun,20
+#-------------------------------
+[141]
+# Dragon's den 
+Bicycle = true
+#-------------------------------
+[142]
+# Pixie Island
+Bicycle = true
+#-------------------------------
+[143]
+# Mind Asylum
+Bicycle = true
+#-------------------------------
+[152]
+# Dread Plateau
+Bicycle = true
+Weather = Fog,40
+DarkMap = true
+#-------------------------------
+[193]
+# South City District
+Bicycle = false
+#-------------------------------
+[194]
+# North City District
+Bicycle = true
+#-------------------------------
+[233]
+# Dreamworld
+Weather = Fog,100
+#-------------------------------
+[247]
+# Lycanroc Den
+Bicycle = true

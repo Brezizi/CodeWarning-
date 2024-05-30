@@ -1,0 +1,13 @@
+
+- Pokemon Pathways is a PC game. You can try emulating it on JoiPlay, but expect glitches. You are advised to play it on PC to get the true Pathways experience. Moreover, if you encounter a bug on
+JoiPlay, you are to seek support on the JoiPlay server first and foremost.
+
+- If you encounter a problem with the PARTNER SYSTEM, like for example having an invisible character team up with you after you blacked out in a double battle, you can go talk to the TORCHIC DOLL or simply enter and leave the Poké Center.
+
+- You can speed up the game by pressing F7.
+
+- Time-based evolutions depend solely on your computer's clock. The time of the day in-game is irrelevant.
+
+- Several changes were made to the game mechanics over the course of updates, and most (if not all of them) were noted in a Google Document accesible here: https://docs.google.com/document/d/1L2f-hzXy4fDBrolZTz61Srs6ZwarnyUKk46YYULH2lI/edit?usp=sharing
+
+- If you find a bug or glitch you would like to report, you can do it on the game's official Discord linked below. However, you are encouraged to read the Known Bugs list also available on the Discord to ensure it has not been reported yet: https://discord.gg/aj2tQMnQpB
